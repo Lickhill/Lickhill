@@ -13,7 +13,7 @@ I'm 20 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1666256257/AppIcon_talaqn.webp"/>](https://www.scribefi.com/)
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://gssoc.girlscript.tech/GS_logo_White.svg"/>]([https://www.scribefi.com/](https://gssoc.girlscript.tech/project))
 
 **Open Source Contributor** \
 [**Girl Scrpt Summer of code**](https://gssoc.girlscript.tech/project) • Open Source Platform \
@@ -27,7 +27,6 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 <a href="https://www.linkedin.com/in/likhilnmaiya/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="amritmaurya1504" /></a>
 <a href="https://instagram.com/maiyarse" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="amritmaurya1504" /></a>
 <a href="https://www.youtube.com/@AgreetoDisagree3" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/ucybcl66huqdcbf-2duwcifq" /></a>
-
 <a href="https://leetcode.com/lickhill/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="amritmaurya1504" /></a>
 <a href="https://www.geeksforgeeks.org/user/likhilnm17103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amritmaurya1504" height="30" widht="40" /></a>
 </p>
