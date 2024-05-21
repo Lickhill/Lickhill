@@ -1,20 +1,48 @@
-<h1 align="center">Hi 👋, I'm Likhil N Maiya</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Likhil N Maiya  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+I'm 20 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🌱 I’m currently learning **DBMS, OPPS, Java, DSA, Web Dev, MERN stack**
+[![Portfolio | Likhil N Maiya](https://lickhillsportfolio.netlify.app/)
 
-- 📫 How to reach me **likhilnm17103@gmail.com**
+## 🌟 `Exploring the World of Code`
 
-<h3 align="left">Connect with me:</h3>
+🌱 Lifelong Learner | 💻 Self-Taught Full Stack Developer | 🎵 Music Enthusiast. <br />
+👯 I'm open to collaborations with fellow content creators and developers. <br />
+🥅 My goal: To be a skilled Developer 👨‍💻. <br />
+
+
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://res.cloudinary.com/amritrajmaurya/image/upload/v1666256257/AppIcon_talaqn.webp"/>](https://www.scribefi.com/)
+
+**Open Source Contributor** \
+[**Girl Scrpt Summer of code**](https://gssoc.girlscript.tech/project) • Open Source Platform \
+Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `TailwindCSS` \
+<br/>
+<br/>
+
+### Connect with me:
+
 <p align="left">
-<a href="https://twitter.com/lickhill_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lickhill_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/likhil-n-maiya-0a6755277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/likhil-n-maiya-0a6755277/" height="30" width="40" /></a>
-<a href="https://instagram.com/maiyarse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maiyarse" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lickhill" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lickhill" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/likhilnm17103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/likhilnm17103" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/lickhill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/lickhill/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@lickhill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@lickhill" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/likhilnmaiya/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="amritmaurya1504" /></a>
+<a href="https://instagram.com/maiyarse" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="amritmaurya1504" /></a>
+<a href="https://www.youtube.com/@AgreetoDisagree3" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="https://www.youtube.com/channel/ucybcl66huqdcbf-2duwcifq" /></a>
+
+<a href="https://leetcode.com/lickhill/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="amritmaurya1504" /></a>
+<a href="https://www.geeksforgeeks.org/user/likhilnm17103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amritmaurya1504" height="30" widht="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascript
+const likhil = {
+  pronouns: "he" | "him",
+  code: [Java, Javascript, Typescript, HTML, CSS,  SQL, Data Structures & Algorithm, Problem Solving],
+  web-technologies: [React, Next, Redux, tailwind, bootstrap],
+  backend: [nodejs, express, spring, springBoot],
+  databases : [MySQL, MonogoDB],
+  tools: [Git, Github, VSCode, Docker],
+  cs: [OOPS, DBMS, Operating System]
+}
+```
+
+
