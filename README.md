@@ -15,10 +15,12 @@ I'm 20 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://gssoc.girlscript.tech/GS_logo_White.svg"/>](https://gssoc.girlscript.tech/project)
+<a href="https://gssoc.girlscript.tech/project" target="_blank">
+  <img align="left" height="94px" width="94px" alt="KPN" src="https://gssoc.girlscript.tech/GS_logo_White.svg"/>
+</a>
 
 **Open Source Contributor** \
-[**Girl Scrpt Summer of code**](https://gssoc.girlscript.tech/project) • Open Source Platform \
+<a href="https://gssoc.girlscript.tech/project" target="_blank">**Girl Scrpt Summer of code**</a> • Open Source Platform \
 Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `TailwindCSS` \
 <br/>
 <br/>
