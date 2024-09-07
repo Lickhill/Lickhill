@@ -40,7 +40,7 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 ```javascript
 const likhil = {
   pronouns: "he" | "him",
-  code: [Java, Javascript, Typescript, Python(panda numpy tkinker,turtle, matplotlib), HTML, CSS,  SQL, Data Structures & Algorithm, Problem Solving],
+  code: [Java, Javascript, Typescript, Python(panda, numpy, tkinker, turtle, matplotlib), HTML, CSS,  SQL, Data Structures & Algorithm, Problem Solving],
   web-technologies: [React, tailwind, bootstrap],
   backend: [nodeJS, express, nextJS],
   databases : [MySQL, MonogoDB],
