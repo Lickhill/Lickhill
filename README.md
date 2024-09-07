@@ -20,7 +20,7 @@ In the overview below you will find my most recent work experience:
 </a>
 
 **Backend Developer** \
-<a href="https://gssoc.girlscript.tech/project" target="_blank">**PixStrive**</a> • Service provider platform | Backend Developer \
+<a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_200_200/company-logo_200_200/0/1724590657076?e=1733961600&v=beta&t=883zz-N08RROUykQXQfCti7YLF3g1jWIwh5-eaPzVvw" target="_blank">**PixStrive**</a> • Service provider platform | Backend Developer \
 Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `TailwindCSS` \
 <br/>
 <br/>
