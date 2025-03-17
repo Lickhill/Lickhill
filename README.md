@@ -26,7 +26,7 @@ Languages & Technologies: `React`, `NextJS`, `PostgresSQL`, `Prisma`, `JavaScrip
 
 <br/>
 <a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_100_100/company-logo_100_100/0/1724590657076?e=1733961600&v=beta&t=B3AeV6XRVJjsOWtUsX6Gnxk146HG7z1mJh9PcfTDSK0" target="_blank">
-  <img align="left" height="94px" width="94px" alt="KPN" src="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_200_200/company-logo_200_200/0/1724590657076?e=1733961600&v=beta&t=883zz-N08RROUykQXQfCti7YLF3g1jWIwh5-eaPzVvw"/>
+  <img align="left" height="94px" width="94px" alt="KPN" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=152,fit=crop,q=95/m6LJlDv11Juk1on1/1-removebg-preview-mp89lMWVB7C0gKVP.png"/>
 </a>
 
 **Backend Developer** \
