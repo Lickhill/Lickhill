@@ -24,6 +24,15 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `React`, `NextJS`, `PostgresSQL`, `Prisma`, `JavaScript`, `Express`, `TailwindCSS` \
 <br/>
 
+<a target="_blank">
+  <img align="left" height="94px" width="94px" alt="KPN" src="https://www.socialwinterofcode.com/SWOC_W_Black.png"/>
+</a>
+
+**Mentor** \
+<a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_200_200/company-logo_200_200/0/1724590657076?e=1733961600&v=beta&t=883zz-N08RROUykQXQfCti7YLF3g1jWIwh5-eaPzVvw" target="_blank">**Social Winter Of Code**</a> • Open Source contribution platform | Full-Stack Website Developer, Python Developer \
+Languages & Technologies: `React`, `NextJS`, `Node`, `TypeScript`,  `Python`, `JavaScript`, `Express`, `TailwindCSS` \
+<br/>
+
 <br/>
 <a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_100_100/company-logo_100_100/0/1724590657076?e=1733961600&v=beta&t=B3AeV6XRVJjsOWtUsX6Gnxk146HG7z1mJh9PcfTDSK0" target="_blank">
   <img align="left" height="94px" width="94px" alt="KPN" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=152,fit=crop,q=95/m6LJlDv11Juk1on1/1-removebg-preview-mp89lMWVB7C0gKVP.png"/>
