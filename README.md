@@ -48,7 +48,7 @@ Languages & Technologies: `React`, `Node`, `MongoDB`, `JavaScript`, `Express`, `
 <br/>
 
 <a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_200_200/company-logo_200_200/0/1724590657076?e=1733961600&v=beta&t=883zz-N08RROUykQXQfCti7YLF3g1jWIwh5-eaPzVvw" target="_blank">
-  <img align="left" height="94px" width="94px" alt="KPN" src="https://gssoc.girlscript.tech/GS_logo_White.svg"/>
+  <img align="left" height="94px" width="94px" alt="KPN" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.XX5zoe1VW_BAEpFNiAP7rwHaHa%3Fpid%3DApi&f=1&ipt=5ebe7ca8839d8b3ce0a921195fa1701b77e0a596c6e20209daf47a45557f658c&ipo=images"/>
 </a>
 
 **Open Source Contributor** \
