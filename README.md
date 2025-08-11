@@ -79,3 +79,17 @@ const likhil = {
   tools: [Git, Github, VSCode, Docker,Kubernetes],
   cs: [OOPS, DBMS, Operating System]
 }
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lickhill&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lickhill&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickhill&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
