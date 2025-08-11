@@ -19,7 +19,7 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `React`, `NextJS`, `JavaScript`, `Express`, `TailwindCSS` \
 <br/>
 <a target="_blank">
-  <img align="left" height="94px" width="94px" alt="KPN" src="https://instagram.fluh1-3.fna.fbcdn.net/v/t51.2885-19/459202351_1585318352367505_3134613078453733319_n.jpg?_nc_ht=instagram.fluh1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2AEnEtSj5x6R7BN7VjaV2X54-lR2Q7QQCAvvr_HKTpMjJU-umJGhDRHmMMUckEKvYNE&_nc_ohc=P3YlgKyC5Z0Q7kNvgEYcfB_&_nc_gid=9SK5mGPOpvIbfm0Q4LWAgQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYEooCoSeOplmVQTtAoZCJUl1neoDzaqsuhy03JwmGjtbQ&oe=67DD884A&_nc_sid=7a9f4b"/>
+  <img align="left" height="94px" width="94px" alt="KPN" src="https://unclefab.co/assets/brand_logo-DQaHVdTr.png"/>
 </a>
 
 **SDE Internr** \
