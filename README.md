@@ -18,11 +18,11 @@ In the overview below you will find my most recent work experience:
 <a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_200_200/company-logo_200_200/0/1724590657076?e=1733961600&v=beta&t=883zz-N08RROUykQXQfCti7YLF3g1jWIwh5-eaPzVvw" target="_blank">**Crud Studio**</a> •Full-Stack Website Developer \
 Languages & Technologies: `React`, `NextJS`, `JavaScript`, `Express`, `TailwindCSS` \
 <br/>
-
 <a target="_blank">
   <img align="left" height="94px" width="94px" alt="KPN" src="https://unclefab.co/assets/brand_logo-DQaHVdTr.png"/>
 </a>
-**SDE Internr** \
+
+**SDE intern** \
 <a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_200_200/company-logo_200_200/0/1724590657076?e=1733961600&v=beta&t=883zz-N08RROUykQXQfCti7YLF3g1jWIwh5-eaPzVvw" target="_blank">**Uncle Fab**</a> • E-commerce platform | Full-Stack Website Developer \
 Languages & Technologies: `React`, `NextJS`, `PostgresSQL`, `Prisma`, `JavaScript`, `Express`, `TailwindCSS` \
 <br/>
