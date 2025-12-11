@@ -1,5 +1,5 @@
 # Hi there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> I'm Likhil N Maiya  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
-I'm 20 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I'm 21 years old `dynamic Full Stack Web Developer` From India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <a href="https://lickhillsportfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https://lickhillsportfolio.netlify.app/" alt="Portfolio | Likhil N Maiya">
@@ -10,6 +10,15 @@ I'm 20 years old `dynamic Full Stack Web Developer` From India.<img src="https:/
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
+<a target="_blank">
+  <img align="left" height="94px" width="94px" alt="KPN" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.K-izzxD-TTlIgJ7ikg4_jQHaJl%3Fcb%3Ducfimg2%26pid%3DApi%26ucfimg%3D1&f=1&ipt=721ba1b4ded04107216414dab4c4d495701e304c2606dc23bbee75daaaf9980f"/>
+</a>
+
+**MERN Stack Website Developer, Project Leader\
+<a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_200_200/company-logo_200_200/0/1724590657076?e=1733961600&v=beta&t=883zz-N08RROUykQXQfCti7YLF3g1jWIwh5-eaPzVvw" target="_blank">Synergy World Press**</a> • Research paper publishing platform | Full-Stack Website Developer \
+Languages & Technologies: `React`, `NodeJS`, `ExpressJS`, `MondoDB`, `Python`, `TailwindCSS` \
+<br/>
+<br/>
 <a target="_blank">
   <img align="left" height="94px" width="94px" alt="KPN" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcrudstudio.com%2Fassets%2FlogoX-c79a3b13.png&f=1&nofb=1&ipt=0d4729d70b162bb65386916afd1a7bae3b2fd0521df7a5c9457fa8dedfef24e8"/>
 </a>
@@ -38,7 +47,7 @@ Languages & Technologies: `React`, `NextJS`, `Node`, `TypeScript`,  `Python`, `J
 
 <br/>
 <a href="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_100_100/company-logo_100_100/0/1724590657076?e=1733961600&v=beta&t=B3AeV6XRVJjsOWtUsX6Gnxk146HG7z1mJh9PcfTDSK0" target="_blank">
-  <img align="left" height="94px" width="94px" alt="KPN" src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=152,fit=crop,q=95/m6LJlDv11Juk1on1/1-removebg-preview-mp89lMWVB7C0gKVP.png"/>
+  <img align="left" height="94px" width="94px" alt="KPN" src="https://media.licdn.com/dms/image/v2/D560BAQH8LCfFkPHzLg/company-logo_100_100/company-logo_100_100/0/1724590657076?e=1767225600&v=beta&t=88jVDUBU0SSkhJ07cs5LiQtXQS8CEBbyH2C-PmePyxY"/>
 </a>
 
 **Backend Developer** \
